@@ -10,11 +10,11 @@
 
 # for ubunutu :
 
-sudo ufw status // if the Status is active then write following command 
-sudo ufw default allow outgoing // run command only for once
-sudo ufw default deny incoming // run command only for once
-cat /etc/default/ufw // Make sure the directive IPV6=yes do exists in /etc/default/ufw file. 
-sudo ufw disable
+1) sudo ufw status // if the Status is active then write following command 
+2) sudo ufw default allow outgoing // run command only for once
+3) sudo ufw default deny incoming // run command only for once
+4) cat /etc/default/ufw // Make sure the directive IPV6=yes do exists in /etc/default/ufw file. 
+5) sudo ufw disable
 
 
 ## Admin credentials:
