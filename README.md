@@ -8,7 +8,7 @@
 4) python manage.py runserver 0.0.0.0:8000
 5) turn off firewall if you want to access it from other device
 
-for ubunutu :
+# for ubunutu :
 
 sudo ufw status // if the Status is active then write following command 
 sudo ufw default allow outgoing // run command only for once
